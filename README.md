@@ -11,7 +11,7 @@ Local Müzik Çalar Uygulaması
 - Karanlık ve aydınlık tema desteği
 
 ## Görseller
-![Ayarlar](screenshots/setting.png)
+![Ayarlar](screenshots/settings.png)
 ![Aydınlık Tema](screenshots/lightTheme.png)
 ![Karanlık Tema](screenshots/darkTheme.png) 
 
