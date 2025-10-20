@@ -1,16 +1,22 @@
-# musicplayer
+# KopKopMusic
 
-A new Flutter project.
+Local Müzik Çalar Uygulaması
 
-## Getting Started
+## Özellikler
 
-This project is a starting point for a Flutter application.
+- Local mp3 Dosyalarını çalabilir
+- Metadata verilerini gösterir
+- Multimedia işlemlerini yürütebilir
+- Tekrar ve karışık çalma özelliği
+- Karanlık ve aydınlık tema desteği
 
-A few resources to get you started if this is your first Flutter project:
+## Görseller
+![Ayarlar](screenshots/setting.png)
+![Aydınlık Tema](screenshots/lightTheme.png)
+![Karanlık Tema](screenshots/darkTheme.png) 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Teknolojiler
+- Dart
+- Flutter
+- just_audio
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
